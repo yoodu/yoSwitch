@@ -2,7 +2,7 @@
 
 yoSwitch 让你能在任意应用和任意窗口间快速切换，避免因切换应用窗口导致注意力分散。
 
-**[立即下载❯](https://gitee.com/yoodu/yoSwitch/releases/)           [备用链接❯](https://github.com/yoodu/yoSwitch/releases/latest/yoSwitch.dmg)**
+**[立即下载❯](https://gitee.com/yoodu/yoSwitch/releases/)		[备用链接❯](https://github.com/yoodu/yoSwitch/releases/latest/)**
 
 (支持MacOS 12 及以上系统 ) 
 
